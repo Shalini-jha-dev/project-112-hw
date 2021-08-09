@@ -1,0 +1,60 @@
+body{
+   font-size: 35px;
+   font-family: 'Comfortaa', cursive;
+   background-color: antiquewhite;
+}
+#header{
+    width: 100%;
+    height: 130px;
+    font-size: 60px;
+    color: yellow;
+    background-color:  green;
+    font-family: 'Style Script', cursive;
+    text-align: center;
+}
+
+.TESTIMAGE{
+    width: 400px;
+    height: 400px;
+    margin-top: 50px;
+}
+
+.box, .diary{
+    width: 500px;
+    height: 600px;
+}
+
+.bag{
+    width: 500px;
+    height: 550px;
+}
+
+.output{
+    margin-top: 90px;
+}
+
+h5{
+    font-size: 30px;
+}
+
+b{
+    color: mediumvioletred;
+}
+
+h4{
+    font-size: 25px;
+}
+
+.text_images_and_results{
+    width: 1150px;
+    border: navy solid 3px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 18px yellow;
+    margin-top: 20px;
+}
+
+.bob_3{
+    background-color: aquamarine;
+    width: 800px;
+    height: 100px;
+}
